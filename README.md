@@ -1,6 +1,6 @@
-# Proyectos-Patrones
+# Proyectos-Intelligencia Artificial
 
-## Proyectos realizados para la materia Reconocimiento de Patrones
+## Proyectos realizados para la materia Inteligencia Artificial
 
 ## Requisitos
 
